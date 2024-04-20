@@ -84,7 +84,7 @@ def Task4():
             for j in range(2+k, 6+k):
                 print(f"{j} * {i} = {i * j} \t", end=" ")
 
-Task3()
+Task4()
 
 
 
